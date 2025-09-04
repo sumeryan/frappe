@@ -51,6 +51,7 @@ def handle_rpc_call(method: str, doctype: str | None = None):
 	return frappe.call(method, **frappe.form_dict)
 
 
+@frappe.whitelist(methods=["POST"])
 def login():
 	"""Login happens implicitly, this function doesn't do anything."""
 	pass
