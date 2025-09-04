@@ -400,7 +400,7 @@
  "is_virtual": 1,
  "issingle": 1,
  "links": [],
- "modified": "2024-05-02 13:32:16.495750",
+ "modified": "2025-09-04 15:35:48.146331",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "System Health Report",
@@ -410,8 +410,20 @@
    "print": 1,
    "read": 1,
    "role": "System Manager"
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": []

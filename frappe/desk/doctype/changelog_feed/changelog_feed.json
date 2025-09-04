@@ -44,7 +44,7 @@
  "in_create": 1,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-04-08 18:36:42.203032",
+ "modified": "2025-09-04 15:35:36.058063",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Changelog Feed",
@@ -61,9 +61,23 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
  "read_only": 1,
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": []

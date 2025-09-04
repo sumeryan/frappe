@@ -82,7 +82,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2024-03-23 16:01:26.370657",
+ "modified": "2025-09-04 15:36:13.463846",
  "modified_by": "Administrator",
  "module": "Website",
  "name": "About Us Settings",
@@ -96,8 +96,20 @@
    "role": "Website Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [],

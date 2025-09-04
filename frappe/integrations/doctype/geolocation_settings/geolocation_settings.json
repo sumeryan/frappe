@@ -41,7 +41,7 @@
  ],
  "issingle": 1,
  "links": [],
- "modified": "2024-06-22 09:18:34.306542",
+ "modified": "2025-09-04 15:36:01.299707",
  "modified_by": "Administrator",
  "module": "Integrations",
  "name": "Geolocation Settings",
@@ -56,8 +56,20 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": []

@@ -220,7 +220,7 @@
   }
  ],
  "links": [],
- "modified": "2025-06-09 18:20:23.775881",
+ "modified": "2025-09-04 15:34:55.208941",
  "modified_by": "Administrator",
  "module": "Automation",
  "name": "Auto Repeat",
@@ -260,6 +260,19 @@
    "read": 1,
    "report": 1,
    "role": "Accounts User",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
    "share": 1,
    "write": 1
   }

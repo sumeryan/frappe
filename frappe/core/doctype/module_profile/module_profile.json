@@ -40,7 +40,7 @@
    "link_fieldname": "module_profile"
   }
  ],
- "modified": "2024-03-23 16:03:30.237678",
+ "modified": "2025-09-04 15:35:13.122253",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Module Profile",
@@ -58,8 +58,22 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [],

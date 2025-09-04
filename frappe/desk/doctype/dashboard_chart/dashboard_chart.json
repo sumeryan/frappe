@@ -304,7 +304,7 @@
   }
  ],
  "links": [],
- "modified": "2025-06-08 22:49:08.587921",
+ "modified": "2025-09-04 15:35:37.869314",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Dashboard Chart",
@@ -343,8 +343,22 @@
    "report": 1,
    "role": "Desk User",
    "share": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [],

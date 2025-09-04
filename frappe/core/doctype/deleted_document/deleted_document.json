@@ -60,7 +60,7 @@
  ],
  "in_create": 1,
  "links": [],
- "modified": "2025-02-20 19:22:00.734438",
+ "modified": "2025-09-04 15:35:04.955063",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Deleted Document",
@@ -71,6 +71,19 @@
    "export": 1,
    "read": 1,
    "role": "System Manager"
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
  "row_format": "Compressed",

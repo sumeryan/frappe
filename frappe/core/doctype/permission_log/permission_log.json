@@ -123,7 +123,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-09-25 17:23:31.599897",
+ "modified": "2025-09-04 15:35:16.209140",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Permission Log",
@@ -134,8 +134,22 @@
    "read": 1,
    "report": 1,
    "role": "System Manager"
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [

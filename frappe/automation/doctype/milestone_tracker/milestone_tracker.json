@@ -35,7 +35,7 @@
   }
  ],
  "links": [],
- "modified": "2024-03-23 16:03:29.801483",
+ "modified": "2025-09-04 15:34:56.094994",
  "modified_by": "Administrator",
  "module": "Automation",
  "name": "Milestone Tracker",
@@ -52,8 +52,22 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [],

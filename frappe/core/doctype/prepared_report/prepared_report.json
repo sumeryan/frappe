@@ -113,7 +113,7 @@
  ],
  "in_create": 1,
  "links": [],
- "modified": "2024-12-20 10:18:19.174608",
+ "modified": "2025-09-04 15:35:16.696222",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Prepared Report",
@@ -140,8 +140,22 @@
    "report": 1,
    "role": "Prepared Report User",
    "share": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": [

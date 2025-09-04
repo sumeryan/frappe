@@ -90,7 +90,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-11-21 11:58:25.712375",
+ "modified": "2025-09-04 15:35:08.347487",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Document Naming Rule",
@@ -107,9 +107,23 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
  "quick_entry": 1,
+ "row_format": "Dynamic",
  "sort_field": "priority",
  "sort_order": "DESC",
  "states": [],

@@ -46,7 +46,7 @@
   }
  ],
  "links": [],
- "modified": "2025-02-04 12:02:03.779623",
+ "modified": "2025-09-04 15:35:49.471842",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Tag Link",
@@ -74,9 +74,23 @@
    "role": "All",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
  "read_only": 1,
+ "row_format": "Dynamic",
  "sort_field": "creation",
  "sort_order": "DESC",
  "states": []

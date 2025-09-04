@@ -37,7 +37,7 @@
  "icon": "fa fa-font",
  "idx": 1,
  "links": [],
- "modified": "2025-06-26 05:40:55.559700",
+ "modified": "2025-09-04 15:36:11.890467",
  "modified_by": "Administrator",
  "module": "Printing",
  "name": "Print Heading",
@@ -58,6 +58,19 @@
   {
    "read": 1,
    "role": "Desk User"
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Administrador Global",
+   "select": 1,
+   "share": 1,
+   "write": 1
   }
  ],
  "quick_entry": 1,
